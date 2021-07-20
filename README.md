@@ -1,1 +1,1 @@
-# bbc-06-world-wide-weather
+# Module 6 - World Weather Analysis
